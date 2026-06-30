@@ -1,0 +1,167 @@
+[
+  {
+    "instruction": "Prerequisite for NOC & Good Standing Certificates",
+    "output": "Applications for No Objection Certificates (NOC) and Good Standing Certificates will only be accepted after the Final Registration Certificate has been issued by the APMC.",
+    "source": "NA"
+  },
+  {
+    "instruction": "NOC Issuance Procedure",
+    "output": "The No Objection Certificate (NOC) will be sent to the concerned State Medical Council and the candidate via Email. No physical copy will be issued.",
+    "source": "NA"
+  },
+  {
+    "instruction": "NMC/IMC Regulations 2002",
+    "output": "These regulations set ethical guidelines and standards for medical professionals, ensuring safe, ethical, and professional practice in India as defined by the National Medical Commission (NMC) and Indian Medical Council (IMC).",
+    "source": "https://apmc.ap.gov.in/pdf/ACTS%20AND%20RULES/IMC%20Regulations-2002.pdf"
+  },
+  {
+    "instruction": "Mission of Andhra Pradesh Medical Council(APMC)",
+    "output": "We protect, promote and maintain the health and safety of the public by making sure that Registered Medical Practitioners follow proper standards of medical practice. Maintaining an up-to-date database of qualified doctors possessing recognised degrees in modern scientific medicine within the state of Andhra Pradesh. Fostering good medical practices. Promoting high standards in medical education and training. Dealing firmly and fairly with doctors whose fitness to practice is in doubt. Maintain a Code of Conduct for the Medical Practitioners Registered with this council. Responsible for regular upgrading of knowledge, techniques of practice and to impart the same to the needy in society",
+    "source": "NA"
+  },
+  {
+    "instruction": "Temporary Permission Application for Foreign/Outside State Visiting Doctors",
+    "output": "Application form for temporary permission required by foreign doctors or doctors from outside Andhra Pradesh state who wish to visit and practice temporarily within the state jurisdiction.",
+    "source": "https://apmc.ap.gov.in/pdf/NRI%20Services/Application%20For%20Temporary%20Permission.pdf"
+  },
+  {
+    "instruction": "Online services that APMC provide",
+    "output": "APMC provides the following online services: 1. Medical Registration (Provisional and Permanent) 2. Renewal of Registration 3. Additional Qualification Registration 4. Issuance of Good Standing Certificate 5. Issuance of No Objection Certificate 6. Continuing Medical Education (CME) Credits Management 7. Temporary Registration for Foreign Doctors 8. District-Level Registration and Renewal Services 9. Doctor Profile Management via e-Doctor Portal 10. Inspection and Accreditation Services",
+    "source": "NA"
+  },
+  {
+    "instruction": "Additional information for M.B.B.S Graduates in Other State.",
+    "output": "File name should not contain special characters and should be less than 20 characters. NOC must be from the concerned State Medical Council. Please report in person at APMC with original documents",
+    "source": "NA"
+  },
+  {
+    "instruction": "Additional information for No Objection Certificate (NOC).",
+    "output": "Tatkal or Non-Tatkal service available. Certificate will be sent via email to the applicant and the applied council. Rejected applications are available in Re-apply option",
+    "source": "NA"
+  },
+  {
+    "instruction": "Procedure for Renewal of Medical Registration.",
+    "output": "Manual Procedure: Book a slot to renew medical registration. Visit APMC office in person. Filled-in Application Form Original. Submit required documents. Make payment (Tatkal/Non-Tatkal as per requirement).\nOnline Procedure: Login to eDoctor portal. Navigate to e-Services section. Apply for Renewal. Upload required documents. Make payment (Tatkal/Non-Tatkal as per requirement). Subject to verification from APMC. If corrections are required, APMC will reject with reason via SMS. Re-apply with corrections if rejected. Certificate will be sent through registered post after approval",
+    "source": "NA"
+  },
+  {
+    "instruction": "What documents are required for Re-Registration?",
+    "output": "Previous Registration Certificate. Passport Size Photo (100KB, jpg/png). Reason or supporting documents for re-registration. All educational certificates",
+    "source": "NA"
+  },
+  {
+    "instruction": "Why is it important to check slot availability before booking?",
+    "output": "Checking slot availability helps ensure that your preferred date and slot type are open before you proceed with booking, avoiding any scheduling conflicts or delays.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What is the difference between Tatkal and Non-Tatkal slot booking?",
+    "output": "1. Tatkal Slots: For urgent or fast-track processing (4 working days turnaround). \n2. Non-Tatkal Slots: For normal processing (3 weeks turnaround).",
+    "source": "NA"
+  },
+  {
+    "instruction": "When is the lunch break at the APMC office?",
+    "output": "The lunch break is from 01:30 PM to 02:00 PM.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What is the Service Turnaround Time (TAT) for APMC services?",
+    "output": "1. Tatkal Services: 4 Working Days per service \n2. Non-Tatkal Services: 3 Weeks per service",
+    "source": "NA"
+  },
+  {
+    "instruction": "What should I do if no Doctor record is found?",
+    "output": "Check for spelling errors or incorrect registration numbers and try again. If the issue persists, contact the Medical Council for assistance.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Who can register for CME/CPD programmes in APMC?",
+    "output": "Any authorized medical organization, institution, hospital, or educational body eligible under APMC guidelines can register.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Will I receive confirmation after registration?",
+    "output": "Yes, a provisional approval and acknowledgment ID are generated after successful submission.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What can organizations manage through their CME dashboard?",
+    "output": "Program applications, approval status, event details, document uploads, and reports.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Who can use the Observer Login?",
+    "output": "Users designated as observers to monitor CME/CPD programmes without administrative control.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can individual doctors register for CME events?",
+    "output": "Individual doctors can attend approved CME events but cannot register as organizing bodies.",
+    "source": "NA"
+  },
+  {
+    "instruction": "How will APMC certificates be delivered?",
+    "output": "All certificates will be sent exclusively through registered post.",
+    "source": "NA"
+  },
+  {
+    "instruction": "How can the registration number be reactivated after NOC?",
+    "output": "Reactivation requires a NOC or Non-Utilization Letter from the concerned state medical council.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What are the new guidelines for CME credit hours for online CMEs?",
+    "output": "Two CME credit hours or points will be awarded per day of an 8-hour duration for online CMEs, webinars, or conferences, as per the new NMC guidelines.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can the Medical Council inspect hospitals or institutions?",
+    "output": "Yes, under Section-20 (iv), the Council can visit or inspect hospitals, nursing homes, or institutions where unethical practices or illegal medical practice activities are suspected.",
+    "source": "NA"
+  },
+  {
+    "instruction": "How should the CME participant list be submitted?",
+    "output": "A signed copy of the participant list, with signatures of the Organizing Secretary and the APMC Observer, must be sent in PDF format by email.",
+    "source": "NA"
+  },
+  {
+    "instruction": "How many CME credit hours for attending online CMEs/webinars?",
+    "output": "You will receive 2 CME credit hours or points per day for attending an 8-hour duration online CME, webinar, or conference as per new NMC guidelines.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What payment methods are accepted for CME/webinar registrations?",
+    "output": "All UPI, debit card, and credit card payments are accepted.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What documents are needed to apply for NOC from APMC?",
+    "output": "Typical documents include the filled application form, registration certificate (final or renewal), proof of the purpose of NOC letter, PG qualification certificate (if applicable), and passport-sized photographs.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What is the Mail or gmail or email of apmc to contact?",
+    "output": "registrar@apmedicalcouncil.in \n contact@apmedicalcouncil.in",
+    "source": "NA"
+  },
+  {
+    "instruction": "where can we download apmc application forms?",
+    "output": "APMC application forms can be downloaded from the below link",
+    "source": "https://apmc.ap.gov.in/Application_Annexures.html"
+  },
+  {
+    "instruction": "Who are the board/committee members of the APMC?",
+    "output": "In February 2026, 13 members were directly elected to the APMC council by registered medical practitioners from across the state: Dr. Kola Alekhya, Dr. Bolla Mounika, Dr. Mahesh Mandala, Dr. Manthini Vinod Kumar, Dr. Arava Venkata Subba Reddy, Dr. A. Siva Mourya Gupta, Dr. Isukapalli Vani, Dr. M. Venkata Ramana, Dr. Metta Jayachandra Reddy, Dr. Bolem Teja Naveen, Dr. Garlapati Nanda Kishore (Chairman), Dr. Srihari Kuruba, and Dr. Karthik Tummala.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Late fee for Provisional Registration (IMG)",
+    "output": "What is the late fee for Provisional Registration (IMG)? ₹5000 if delayed by one year or more after the date of MBBS degree issuance.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Organisation Registration For CME/CPD Programmes",
+    "output": "To register your organisation for CME/CPD Programmes, please visit the official registration website.",
+    "source": "https://online.apmc.ap.gov.in/cmeregistration/Organisation"
+  }
+]

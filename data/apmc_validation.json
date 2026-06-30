@@ -1,0 +1,167 @@
+[
+  {
+    "instruction": "CME Credit Hours for Online Events",
+    "output": "In accordance with new NMC guidelines, 2 CME Credit Hours/Points will be awarded per day for Online CMEs, Webinars, or Conferences that have a duration of 8 hours.",
+    "source": "NA"
+  },
+  {
+    "instruction": "NOC Requirement for Post Graduates from Other States",
+    "output": "All 'Post Graduates' who have studied or worked in another state must first register with that state's Medical Council and obtain a No Objection Certificate (NOC) before they can register with the A.P Medical Council.",
+    "source": "NA"
+  },
+  {
+    "instruction": "NMC Act 2019",
+    "output": "The National Medical Commission Act, 2019, is a primary act governing medical practice and education. The full text is available via the link.",
+    "source": "https://apmc.ap.gov.in/pdf/ACTS%20AND%20RULES/NMC%20Act%202019.pdf"
+  },
+  {
+    "instruction": "APMPR Amendment Act 2018",
+    "output": "This amendment further revises the registration and regulatory provisions to keep them up to date with current medical practice needs.",
+    "source": "https://apmc.ap.gov.in/pdf/ACTS%20AND%20RULES/APMPR%20AMENDED%20ACT%202018.pdf"
+  },
+  {
+    "instruction": "IMC Act 1956",
+    "output": "The Indian Medical Council Act, the national law for medical education, registration, recognition of qualifications, and the ethical code, establishing uniform standards for medical practice in India.",
+    "source": "https://apmc.ap.gov.in/pdf/ACTS%20AND%20RULES/IMC%20ACT%201956.pdf"
+  },
+  {
+    "instruction": "History of Andhra Pradesh Medical Council(APMC)",
+    "output": "Andhra Pradesh Medical Council is a Body corporate established by an Act of the State Legislature, vide Act No.23 of 1968, by integrating the hitherto Two State Medical Councils, i.e. Hyderabad State Medical Council and Andhra Medical Council. The Council was first constituted by a notification issued in G.O.Ms.No.662 on 19th December, 1991. The Council had been constituted from time to time as per the Act. On earlier occasions, Interim Medical Councils were constituted on 2.1.2012, vide G.O.Rt.No.08 HM & FW (E1) Department and on 28.12.2012, vide G.O.Rt. No.1839, HM & FW Department. The Council is having an Executive Committee constituted under Section-11 of the Act with Chairman, Vice Chairperson of the Council as ex-officio and three other members. There are regularly constituted Committees under Section-12 of the Act, such as Ethics Committee, Administrative Committee, Finance Committee, CME Committee and others.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Eligibility for Final Medical Registration for M.B.B.S Graduates in Other Country.",
+    "output": "Eligibility for Final Medical Registration for M.B.B.S Graduates in Other Country: FMGs who have completed their M.B.B.S degree abroad and passed the Foreign Medical Graduate Examination (FMGE) are eligible.  FMGs must complete a mandatory 1 to 3 years internship, based on compensation for online study during the COVID-19 pandemic as per National Medical Commission (NMC) guidelines.  Verification of the medical degree's authenticity by the university and Indian Embassy is required before registration.  Permanent Registration is granted only after successful document verification and completion of the prescribed internship.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Procedure or process for Profile Registration (Signup) OR For Doctor Signup.",
+    "output": "Procedure for Profile Registration (Signup), OR For Doctor Signup: Filled in Profile Registration Form (Includes Personal Details, Address for Communication, Educational Details).  Payment for Id Card (Id Card will be sent through the registered post, after verification of your profile).  Upload Enclosures. 1.   Upload Passport Size Photo & Academic Certificates (SSC, Intermediate, Internship, M.B.B.S Degree, Final Medical Registration (PR), etc,.). 2.   Those who obtained Additional Qualifications (P.G) upload Additional Qualification Registration Certificate only, which was issued by the APMC. Don't upload Provisional / OD. 3.   Size of the documents to be uploaded. ▪  Photo - 100KB, Other Documents - 200KB. ▪  Documents are allowed jpg / png only, with Proper Naming Conventions. File name should not contain any special characters and should have less than 20 character length.  Slot Booking. 1.   Book the Slot for Verification. 2.   Please Report in Person at APMC with all Original (UG / PG) Certificates for the Allotment of Login Credentials of eDoctor.  Check Details (Know your Acknowledgement Id, Status & Slot Id).",
+    "source": "https://online.apmc.ap.gov.in/drprofile/DoctorRegistration/RegistrationForm"
+  },
+  {
+    "instruction": "Is Doctor Profile Management available through the eDoctor portal?",
+    "output": "Yes, doctors can manage their profile, UG/PG details, and certificates through eDoctor login.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Are file size requirements the same for other state graduates?",
+    "output": "Yes, photos (100KB) and other documents (200KB) in JPG/PNG; naming conventions apply.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Do other state graduates need to report in person?",
+    "output": "Yes, all applicants must appear at APMC for original document verification.",
+    "source": "NA"
+  },
+  {
+    "instruction": "When is permanent registration granted to FMGs?",
+    "output": "After successful document verification and completion of internship.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What is the FMG Doctor registration link?",
+    "output": "Foreign Medical Graduates can apply for registration using the OCFMR portal.",
+    "source": "https://online.apmc.ap.gov.in/drfmr/FMR_SignupRegistration/RegistrationForm_OCFMR"
+  },
+  {
+    "instruction": "Who is eligible for APMC profile registration or signup?",
+    "output": "Doctors registered before May 25, 2023, with a valid APMC registration number.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can I search for a Doctor using partial details?",
+    "output": "Yes, you can enter partial details (like only the first name) to get a list of matching records, but providing complete information ensures accurate results.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Is the Medical Registration Search available for all states?",
+    "output": "No, it is specific to the respective State Medical Council (e.g., Andhra Pradesh Medical Council). Each state has its own database.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can multiple organizations register under the same account?",
+    "output": "No, each organization must register with a unique user ID and acknowledgment ID.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can I download the list of upcoming CME programmes?",
+    "output": "Yes, it can be viewed or downloaded as a report from the CME portal.",
+    "source": "NA"
+  },
+  {
+    "instruction": "How do I contact support for CME registration issues?",
+    "output": "Reach APMC technical team or support number available on the official website during working hours.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Can I change my mobile number or email after FMG registration?",
+    "output": "No. The registered mobile number and email ID are linked to your application and cannot be changed once submitted.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Is a Police Clearance Certificate necessary for FMG internship?",
+    "output": "Yes. It is mandatory to upload a recent Police Clearance Certificate (Non-Criminal Record).",
+    "source": "NA"
+  },
+  {
+    "instruction": "How can I check my FMG application status?",
+    "output": "Log in to your account and go to the “Application Status” section to check your current progress or verification status.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Who is eligible to apply for the FMG internship under APMC?",
+    "output": "Indian citizens who completed their MBBS or equivalent degree from a recognized foreign medical university and have passed the FMGE Screening Test are eligible to apply for the internship.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Is slot booking mandatory for CME registrations?",
+    "output": "Yes, slot booking is mandatory for all CME registrations.",
+    "source": "NA"
+  },
+  {
+    "instruction": "What actions can the Council take if standards are not met?",
+    "output": "The Council will take appropriate action against doctors or institutions not meeting professional standards.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Who is responsible for entering participant details for CME?",
+    "output": "The Association/Organization organizing the CME must enter details in the provided Excel proforma available in the Organizer's login, coordinating with the APMC Observer.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Required Personal Details for FMG Internship Registration",
+    "output": "You will need to provide the following personal details: Candidate name, Father's and mother's name, Gender, Blood group, Email, Residential address, Nationality, Passport number, Date of Birth, Aadhaar number, Mobile number, and Permanent address details.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Late fee for Provisional Registration (FMG Other States)",
+    "output": "Is there any late fee for FMG (Other States)? No, there is no late fee.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Late fee for Final Registration (IMG)",
+    "output": "What is the late fee for Final Registration (IMG)? ₹5000 if delayed by one year or more after internship completion.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Late fee for Final Registration (FMG)",
+    "output": "Is there any late fee for Final Registration (FMG)? No, there is no late fee.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Policy on Renewal Delay Beyond One Year",
+    "output": "What happens if the renewal is delayed beyond one year? Renewal is not permitted; reregistration is required.",
+    "source": "NA"
+  },
+  {
+    "instruction": "Fee for Re-Registration",
+    "output": "What is the fee for Re-Registration? ₹8000 (during the 2nd year after expiry).",
+    "source": "NA"
+  },
+  {
+    "instruction": "Procedure for an Organization to Register on the AP Medical Council CME/CPD Portal",
+    "output": "To register an organization on the AP Medical Council CME/CPD application: • Click the Organization Registration tab at the top left corner. • Complete all mandatory fields: Organization Type, Contact Number, Organization Name, Email, Organisation Registration Number, and Address. • Upload the Organization Registration Certificate (PDF, under 400kb). • Click Save Details. An acknowledgment ID will be generated, and provisional approval will be sent.",
+    "source": "https://online.apmc.ap.gov.in/cmeregistration/Organisation/OrgRegistration"
+  }
+]
